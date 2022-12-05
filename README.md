@@ -7,7 +7,7 @@
 
 <p>
 <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Seaborn"/></a>
- <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/></a>
+
 
 </p>
 
@@ -15,7 +15,8 @@
 
 Halma, (Greek: "jump"), checkers-type board game, invented about 1880. Pieces may move one square at a time in any direction onto any empty square. Pieces are not removed from the board when they are jumped. Chinese checkers, a game derived from Halma, was introduced in the U.S. in the 1930s.
 
-### Read more about - [Halma Game](https://en.wikipedia.org/wiki/Halma#:~:text=Halma%20(from%20the%20Greek%20word,which%20was%20devised%20in%201854.&text=The%20gameboard%20is%20checkered%20and%20divided%20into%2016%C3%9716%20squares).
+Read more about - [Halma Game](https://en.wikipedia.org/wiki/Halma).
+
 
 
 
