@@ -15,6 +15,8 @@
 
 Halma, (Greek: "jump"), checkers-type board game, invented about 1880. Pieces may move one square at a time in any direction onto any empty square. Pieces are not removed from the board when they are jumped. Chinese checkers, a game derived from Halma, was introduced in the U.S. in the 1930s.
 
+### Read more about - [Halma Game](https://en.wikipedia.org/wiki/Halma#:~:text=Halma%20(from%20the%20Greek%20word,which%20was%20devised%20in%201854.&text=The%20gameboard%20is%20checkered%20and%20divided%20into%2016%C3%9716%20squares).
+
 
 
 # Program Description
@@ -27,3 +29,6 @@ Alpha-beta pruning. This is really an add-on to your Minimax search engine, allo
 Win/loss detector. This is just a function (method of board object, most likely) that takes in a game board and reports whether somebody won. This is actually fairly easy: you just need to see if red/green has gotten all their pieces into the opposite camp.
 
 Utility function. This is basically a more subtle version of the “win detector”. This function “scores” a board based on its “goodness”.
+
+
+
