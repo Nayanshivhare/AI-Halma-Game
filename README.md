@@ -1,8 +1,11 @@
 # AI-Halma-Game
-
+# Developed Al Halma Game, a python based program that uses AI to generate the optimal move out of all the valid movies using Alpha Beta Pruning Minimax algorithm.
 
 Halma, (Greek: "jump"), checkers-type board game, invented about 1880. Pieces may move one square at a time in any direction onto any empty square. Pieces are not removed from the board when they are jumped. Chinese checkers, a game derived from Halma, was introduced in the U.S. in the 1930s.
 
+
+
+# Program Description
 Created player object that gets created as the game starts, passing it the move time limit, which player (red or green) it is.
 
 Implemented MinMax Search that search down the game tree using minimax search with alpha-beta pruning to return a next move. 
